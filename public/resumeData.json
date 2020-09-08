@@ -96,34 +96,6 @@
       }
     ]
   },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "Strategic Education, Inc",
-        "category": "Education Domain Project",
-        "image": "strategiced.jpg",
-        "url": "https://www.capella.edu"
-      },
-      {
-        "title": "Smart Screen",
-        "category": "ReactJS Project",
-        "image": "TADigital.png",
-        "url": ""
-      },
-      {
-        "title": "Strayer.edu (Drupal to AEM Migration)",
-        "category": "Education Domain Project",
-        "image": "strayer.jpg",
-        "url": "https://www.strayer.edu"
-      },
-      {
-        "title": "Bushnellgolf.com",
-        "category": "Ecommerce Project",
-        "image": "bushnellgolf.png",
-        "url": "https://bushnellgolf.com"
-      }
-    ]
-  },
   "testimonials": {
     "testimonials": [
       {
