@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name": "Shubham Gupta",
+    "occupation": "UI Developer @TADigital",
+    "description": "FrontEnd Developer who love new challenges and always ready to learn new technologies.",
+    "image": "shubham.jpg",
+    "bio": "My name is Shubham, I'm a FrontEnd Developer. Currently I'm working at TADigital Inc.",
+    "contactmessage": "Get in touch with me if you are interested in my application",
+    "email": "shubamg18@gmail.com",
+    "phone": "+919622065143",
+    "address": {
+      "street": "Flat 503 Surya Sravanthi Apartments, Road No. 3 Jubliee Gardens, Hanuman Nagar, Kondapur",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "500084"
+    },
+    "website": "https://www.linkedin.com/in/shubham-gupta-055a85133",
+    "resumedownload": "https://www.linkedin.com/in/shubham-gupta-055a85133",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/shubam.gupta2",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shubham-gupta-055a85133",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_shubamgupta/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/shubamg18",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Front End Developer with over 2.5 years of technical expertise in Web Development. Good experience in working with JavaScript, jQuery and ReactJS. Implemented UX mock-ups/designs to functional and complete application. Proven track record demonstrating innovative and unique developing skills, ability to work in astressful environment with projects and interaction with every team member. Excellent working knowledge and thorough exposure on compatibility issues with different ver-sions of browsers like Internet Explorer, Mozilla Firefox, Safari and Google Chrome.",
+    "education": [
+      {
+        "school": "Shri Mata Vaishno Devi University, Katra",
+        "degree": "BTech in Computer Science and Engineering",
+        "graduated": "MAY 2017",
+        "description": "CGPA: 7.81"
+      }
+    ],
+    "work": [
+      {
+        "company": "TA Digital Inc",
+        "title": "Associate Software Engineer",
+        "years": "Feb 2018 - Present",
+        "description": "Currently Working on client projects based on jQuery, Bootstrap and AEM 6.4"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "LESS/SASS",
+        "level": "70%"
+      },
+      {
+        "name": "Gulp",
+        "level": "80%"
+      },
+      {
+        "name": "jQuery",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Strategic Education, Inc",
+        "category": "Education Domain Project",
+        "image": "strategiced.jpg",
+        "url": "https://www.capella.edu"
+      },
+      {
+        "title": "Smart Screen",
+        "category": "ReactJS Project",
+        "image": "TADigital.png",
+        "url": ""
+      },
+      {
+        "title": "Strayer.edu (Drupal to AEM Migration)",
+        "category": "Education Domain Project",
+        "image": "strayer.jpg",
+        "url": "https://www.strayer.edu"
+      },
+      {
+        "title": "Bushnellgolf.com",
+        "category": "Ecommerce Project",
+        "image": "bushnellgolf.png",
+        "url": "https://bushnellgolf.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Shubham Gupta"
+      }
+    ]
+  }
+}
